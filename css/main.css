@@ -1,0 +1,62 @@
+/*stylisation du menu de navigation*/
+
+/*stylisation du contenu*/
+.titre {
+	 text-align: center;
+	 margin: 0 0 40px;
+}
+.contenu {
+     width: 500px; margin: 20px auto;
+      padding: 30px;
+      background-color: #fafa;
+}
+img {
+	height: 200px; 
+	float:left;
+	margin: 0 40px 0 0;
+}
+span {
+	font-style: normal;
+	font-size: 35px;
+	font-weight: bolde;
+	color: #ff0000;
+}
+blockquote {
+		font-style: italic; 
+		font-size: 30px;
+}
+/*stylisation du contenu*/
+
+
+
+
+header {
+	background-color: hsl(180, 90%, 35%);
+	color: #FFFFFF;
+}
+	
+nav {
+	background-color: hsl(180, 80%, 25%);
+}
+
+h1 {
+	text-indent: 10px;
+	padding-top: 10px;
+}
+nav ul {
+	margin: 0px;
+	padding: 5px 0px 5px 30px;
+}
+nav li {
+	display: inline;  /*mettre les éléments en lignes*/
+	margin-right: 20px;   /*ajouter les marges*/
+}
+a {
+ 	text-decoration: none;
+ 	color: inherit;	
+}
+
+
+
+
+
